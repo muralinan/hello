@@ -1,2 +1,2 @@
 # hello
-Hello Application
+This is a Hello Application
